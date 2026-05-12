@@ -13,8 +13,8 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 from pathlib import Path
 import os
 
-RAZORPAY_KEY_ID = 'rzp_test_gLVyb1QZKrGwzM'
-RAZORPAY_SECRET_KEY = 'TkGC8URvob0ixIxPf1bGQSzg'
+RAZORPAY_KEY_ID = "HIDDEN"
+RAZORPAY_SECRET_KEY = "HIDDEN"
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
